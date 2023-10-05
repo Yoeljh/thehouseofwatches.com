@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The House of Watches</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #fff;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #185a87;
+            color: #fff;
+            text-align: center;
+            padding: 20px;
+        }
+        h1 {
+            font-size: 36px;
+            margin: 0;
+        }
+        .container {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: #fff;
+            border-radius: 5px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        .logo {
+            font-size: 48px;
+            font-weight: bold;
+            color: #185a87;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="logo">The House of Watches</div>
+        <p>Your source for modern and vintage timepieces</p>
+    </header>
+    <div class="container">
+        <h2>About Us</h2>
+        <p>Welcome to The House of Watches, where passion for horology meets exceptional timepieces. We are dedicated to curating a collection of both modern and vintage watches that capture the essence of craftsmanship and timeless style.</p>
+        
+        <!-- Rest of your webpage content -->
+
+    </div>
+</body>
+</html>
+git add .
+git commit -m "Add index.html"
+git push origin main
